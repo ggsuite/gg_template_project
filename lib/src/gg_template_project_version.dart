@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_template_project` package.
-const String ggTemplateProjectVersion = '1.0.1';
+const String ggTemplateProjectVersion = '1.0.2';
