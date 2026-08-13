@@ -1,6 +1,6 @@
 name: gg_template_project
 description: The gg_template_project package provides various JSON helpers for dart
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/ggsuite/gg_template_project.git
 publish_to: none # Remove, to publish on pub.dev
 
